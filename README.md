@@ -4,6 +4,8 @@ This repository contains an implementation of **OpenAI's CLIP (Contrastive Langu
 
 The goal of this project is to understand the **multimodal alignment** between image and text features and to analyze the efficiency of **transfer learning** using a frozen backbone.
 
+<img width="662" height="362" alt="Image" src="https://github.com/user-attachments/assets/9db8d0bc-d242-45c8-8592-590dc3438a2d" />
+
 1. Zero-shot Prediction (Zero-shot_Prediction.py)
 This script demonstrates the capability of CLIP to classify images without any explicit training on the CIFAR-100 dataset.
 
